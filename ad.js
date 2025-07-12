@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  حذف الإعلانات والنوافذ المزعجة نهائيًا مع كشف ومراقبة العناصر المحقونة ديناميكيًا بشكل مستمر ومتطور
-// @author       You
+// @author       Mohammed
 // @match        *://anime3rb.com/*
 // @match        *://*.anime3rb.com/*
 // @grant        none
